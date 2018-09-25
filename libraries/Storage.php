@@ -8,6 +8,7 @@
  * @property S3 $s3
  *
  * @author Norby Baruani <norbybaru@gmail.com/>
+ * @link https://github.com/norbybaru/codeigneter-aws-s3
  * @version 1.0.0
  * @since 1.0.0
  */

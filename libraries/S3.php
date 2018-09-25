@@ -11,6 +11,7 @@ use Aws\S3\S3Client;
  * Use composer or any other means to install the AWS PHP SDK .
  *
  * @author Norby Baruani <norbybaru@gmail.com/>
+ * @link https://github.com/norbybaru/codeigneter-aws-s3
  * @version 1.0.0
  * @since 1.0.0
  */
