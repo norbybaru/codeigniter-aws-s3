@@ -1,5 +1,5 @@
-# Codeigneter AWS S3
-Amazon aws S3 storage libary for codeigneter
+# Codeigniter AWS S3
+Amazon aws S3 storage libary for codeigniter
 
 ## Setup
 1. Copy config and library files to your CI installation
